@@ -1,4 +1,4 @@
-### User Documentation for Quiz App
+<!--### User Documentation for Quiz App-->
 
 ## Overview
 
